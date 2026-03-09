@@ -6,7 +6,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
           - name: Echo a String
-            run: echo "Hello Security Gurus!! This is our first Github Actions Workflow file and I am adding the second today March, nineth"
+            run: echo "Hello Security Gurus!! This is our first Github Actions Workflow file and I am adding the second today March, nineth twenty-twenty-six"
             
 
 
